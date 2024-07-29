@@ -1,0 +1,75 @@
+CEILING Function - Accepts 2 Parameters (x, y) It ceil the value of X to the multiple of 
+                    Example - (10.2, 3) = 12 Answer  12%3 == 0
+
+CODE - Returns the first code of the first character of the String 
+
+COMBIN - Returns the number of cobination for the given of items nCr
+
+COMBINA - Returns the number of combination for the given of item with REPETETION
+
+CONCAT -   Combines the text from multiple ranges or string 
+
+CONCATENATE - Joins several Strings or texts
+
+COUNT - Counts the number of cell which have some values numbers 
+
+COUNTA - Counts the number of cell which are empty 
+
+COUNTIF - Counts the cell with  condition  Condition given in DOUBLE QOUTES
+
+DATE - Date returns the serial number of a specific Date  Serial Number = Number of MILISECONDS Passes till 12AM
+
+EXACT - It is used to Compare two Strings or Texts
+
+FIND - Find text within the String (CASE SENSITIVE)
+SEARCH - Find text within the String (CASE - INSENSITIVE)
+
+FORMULATEXT - Revels the formula used in the cell 
+
+HLOOKUP - i want a value which is located in the column X but i do know the location of the value whcih is at same Column X and in another Row then It gives me the value at diffrent Row 
+HLOOKUP(a,X-Y,b) - finds the a in range (X-Y) and returns the value which is present in the row b and same column of a
+
+VLOOKUP - searchs the values in the range and returns the col number value which is passed as an argument 
+VLOOKUP(A, X-Y, B) - searches the value A in the range (X-Y)  and returns the value present at same Row of A and Column B
+
+LARGE(arr, k) - It returns the KTH Largest in arr 
+
+MATCH(value, arr, MatchType) = Searches the value in an aeeay and returns the relative position of it 
+
+MROUND - returns the rounded number to the desired multiple 
+example - MROUND(17, 4) = 20
+
+NETWORKDAYS = returns the number of whole workdays bebtween teo dates
+NETWORKDAYS(st_date, ed_date, [holidays])
+
+RANK - returns the rank of a number in a list of numbers 
+
+TRANSPOSE - cannot be evaluated using Enter Kay 
+it is evaluated using ( ctrl + shift + enter )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
